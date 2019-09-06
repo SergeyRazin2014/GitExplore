@@ -1,0 +1,1 @@
+var reactVersion = 1;
