@@ -1,1 +1,1 @@
-var reactVersion = 2;
+var reactVersion = 2; //message
