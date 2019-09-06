@@ -1,1 +1,1 @@
-var reactVersion = 1;
+var reactVersion = 2;
